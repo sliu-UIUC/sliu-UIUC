@@ -7,6 +7,8 @@
 - 📫 You can reach me at Linkedin: https://www.linkedin.com/in/shiyuliutx/
                     and via email: shiyul3@illinois.edu
 
+![](https://github-readme-stats.vercel.app/api?username=sliu-UIUC&show_icons=true&theme=radical)
+
 <!---
 sliu-UIUC/sliu-UIUC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
