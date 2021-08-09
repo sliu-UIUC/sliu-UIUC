@@ -4,7 +4,8 @@
 - 👀 I’m passionate about software development and human-centered design. I'm also interested in data mining and data visualization as I will further explore them during my study at UIUC.
 - 🌱 I’m currently a student developer with Android Graphics Tools team under Google Summer of Code (GSoC) program. I provided support for various tools surrounding SPIRV-FUZZ and Tint AST Fuzzer, which are used to explore vulnerabilities on graphics drivers on Android and PC devices through various transformation of inputs.  
 - 💞️ I’m looking forward to collaborating with top software engineers in the industry in summer next year to gain experience and skills and prepare myself for a fulltime role as a software engineer. 
-- 📫 You can reach me at Linkedin: https://www.linkedin.com/in/shiyuliutx/
+- 📫 You can reach me at Linkedin:  <a href="https://www.linkedin.com/in/shiyuliutx/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+
                     and via email: shiyul3@illinois.edu
 
 ![](https://github-readme-stats.vercel.app/api?username=sliu-UIUC&show_icons=true&theme=radical)
