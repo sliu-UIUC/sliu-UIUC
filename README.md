@@ -22,6 +22,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+
+![](https://github-readme-stats.vercel.app/api?username=sliu-UIUC&show_icons=true&theme=radical)
+
 <!---
 sliu-UIUC/sliu-UIUC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
