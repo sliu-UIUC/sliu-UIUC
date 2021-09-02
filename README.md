@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=sliu-UIUC)
 - 👋 Hi, I’m Shiyu Liu. I am an Master student in computer science at the University of Illinois at Urbana-Champaign (UIUC). 
 - 👀 I’m passionate about software development and human-centered design. I'm also interested in data visualization and distributed systems as I will further explore them during my study at UIUC.
-- 🌱 I'm a student developer with Android Graphics Tools team under Google Summer of Code (GSoC) program. I provided support for various tools surrounding SPIRV-FUZZ and Tint AST Fuzzer, which are used to explore vulnerabilities on graphics drivers on Android and PC devices through various transformation of inputs.  
+- 🌱 I was student developer with Android Graphics Tools team under Google Summer of Code (GSoC) program during the past summer. I provided support for various tools surrounding SPIRV-FUZZ and Tint AST Fuzzer, which are used to explore vulnerabilities on graphics drivers on Android and PC devices through various transformation of inputs.  
 - 💞️ I’m looking forward to collaborating with top software engineers in the industry in summer next year to gain experience and skills and prepare myself for a fulltime role as a software engineer. 
 - 📫 You can reach me at Linkedin:  <a href="https://www.linkedin.com/in/shiyuliutx/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a> or via [![Gmail Badge](https://img.shields.io/badge/-shiyul3@illinois.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiyul3@illinois.edu)](mailto:shiyul3@illinois.edu)
 
